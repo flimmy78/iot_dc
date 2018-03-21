@@ -1,0 +1,1 @@
+{"CMD":"get","DEV":"trigger","DEVID":"1","STA":"on","IF":[{"DEV":"timer","DEVID":"t1","VALUE":[{"W":"0123456","H":21,"MI":15},{"W":"0123456","H":21,"MI":45}]},{"DEV":"temp","DEVID":"temp1","TYPE":">","VALUE":25}],"THEN":[{"DEV":"button","DEVID":"b1"},{"DEV":"delay","VALUE":120},{"DEV":"trigger","DEVID":"t1","STA":"off"}]}

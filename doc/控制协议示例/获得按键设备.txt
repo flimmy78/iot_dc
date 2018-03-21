@@ -1,0 +1,1 @@
+{"CMD":"get","DEV":"button","DEVID":"10000"}

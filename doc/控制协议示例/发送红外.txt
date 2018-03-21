@@ -1,0 +1,1 @@
+{"CMD":"edit","DEV":"infrared","DEVID":"1","VALUE":"01cEk4ceYMm41wCAbKd5CezhDk46RRT/YNMrf0uPUEfRnqqyIFt4vXM49ZbQ3R8NcDtpPWcc41aorlcKm2IN4dqg==\n"}

@@ -1,0 +1,1 @@
+{"CMD":"delete","DEV":"trigger","DEVID":"t1","STA":"on","IF":[{"DEV":"door","DEVID":"d1","TYPE":"==","VALUE":1}],"THEN":[{"DEV":"trigger","DEVID":"t1","STA":"off"}]}

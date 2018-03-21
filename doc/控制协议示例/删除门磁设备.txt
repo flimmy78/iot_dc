@@ -1,0 +1,1 @@
+{"CMD":"delete","DEV":"door","DEVID":"d1"}

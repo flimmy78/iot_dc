@@ -1,0 +1,1 @@
+{"CMD":"add","DEV":"trigger","DEVID":"7","STA":"on","IF":[{"DEV":"timer","DEVID":"2","VALUE":[{"W":"0123456","H":21,"MI":15},{"W":"0123456","H":21,"MI":55}]},{"DEV":"door","DEVID":"d1","TYPE":"==","VALUE":1}],"THEN":[{"DEV":"button","DEVID":"10000"}]}

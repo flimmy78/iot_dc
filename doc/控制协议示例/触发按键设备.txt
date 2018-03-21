@@ -1,0 +1,1 @@
+{"CMD":"trig","DEV":"button","DEVID":"10000"}
